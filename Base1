@@ -12,14 +12,8 @@
         
         <table class="TravelBot-data">
             <tbody>
-                <tr>                
-                    <td>
-                        <p>GYE</p> 
-                        <p1>Guayaquil</p1>
-                        <p2>Aeropuerto Internacional Jose Juaquin de Olmedo</p2>
-                        <p3>NAC</p3>
-                    </td>
-                    <td>
+                <tr> 
+                  <td>
                         <p>UIO</p> 
                         <p1>Quito</p1>
                         <p2>Aeropuerto Internacional Mariscal Sucre</p2>
@@ -31,18 +25,31 @@
                         <p2>Aeropuerto Internacional Eloy Alfaro</p2>  
                         <p3>NAC</p3>
                     </td>
+                     <td>
+                        <p>GPS</p> 
+                        <p1>Baltra, Galapagos</p1>
+                        <p2>Aeropuerto Seymour de Baltra</p2>   
+                        <p3>NAC</p3>
+                    </td>
+                    <td>
+                        <p>GYE</p> 
+                        <p1>Guayaquil</p1>
+                        <p2>Aeropuerto Internacional Jose Juaquin de Olmedo</p2>
+                        <p3>NAC</p3>
+                    </td>
+                    <td>
+                        <p>MEX</p> 
+                        <p1>Ciudad de Mexico</p1>
+                        <p2>Aeropuerto Internacional de la Ciudad de Mexico</p2>
+                        <p3>INT</p3>
+                    </td>
                     <td>
                         <p>SCY</p> 
                         <p1>San Cristobal, Galapagos</p1>
                         <p2>Aeropuerto de San Cristobal</p2>  
                         <p3>NAC</p3>
                     </td>
-                    <td>
-                        <p>GPS</p> 
-                        <p1>Baltra, Galapagos</p1>
-                        <p2>Aeropuerto Seymour de Baltra</p2>   
-                        <p3>NAC</p3>
-                    </td>
+                   
                     <td>
                         <p>MIA</p> 
                         <p1>Miami</p1>
@@ -59,12 +66,6 @@
                         <p>BOG</p> 
                         <p1>Bogota</p1>
                         <p2>Aeropuerto Internacional El Dorado</p2>
-                        <p3>INT</p3>
-                    </td>
-                    <td>
-                        <p>MEX</p> 
-                        <p1>Ciudad de Mexico</p1>
-                        <p2>Aeropuerto Internacional de la Ciudad de Mexico</p2>
                         <p3>INT</p3>
                     </td>
                 </tr>
