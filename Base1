@@ -2,15 +2,15 @@
 <html>
 
 <head>
-<title>SDServices.</title>
+<title>BaseDeDatos</title>
 </head>
 
 <body>
-    <div id="avianca-tab-data" class="data-tab">
+    <div id="Travel-bot-airlines" class="data-tab">
     
     <div class="avianca-tab-content">
         
-        <table class="avianca-data">
+        <table class="TravelBot-data">
             <tbody>
                 <tr>                
                     <td>
